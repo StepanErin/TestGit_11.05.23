@@ -10,6 +10,7 @@ namespace TestGit_11._05._23
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
         }
     }
 }
